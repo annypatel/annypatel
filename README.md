@@ -20,7 +20,7 @@ into actionable tasks.
 
 - X(Twitter): **[@annypatel][x]**
 - LinkedIn: **[annypatel][linked_in]**
-- Website: **[https://anny.im][anny_im]**
+- Website: **[anny.im][anny_im]**
 
 [x]: https://x.com/annypatel_
 [linked_in]: https://www.linkedin.com/in/annypatel
