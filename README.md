@@ -11,3 +11,13 @@ scalable solutions. I have been working with teams to understand, solve,
 develop, and deliver end-to-end solutions using agile engineering practices,
 such as **Test-Driven Development (TDD)**, **Pair Programming**,
 **Continuous Integration/Delivery**, and **Test Automation**.
+
+### 📫 Connect with Me
+
+- X(Twitter): **[@annypatel][x]**
+- LinkedIn: **[annypatel][linked_in]**
+- Website: **[https://anny.im][anny_im]**
+
+[x]: https://x.com/annypatel_
+[linked_in]: https://www.linkedin.com/in/annypatel
+[anny_im]: https://anny.im
