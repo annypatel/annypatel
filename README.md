@@ -12,6 +12,10 @@ develop, and deliver end-to-end solutions using agile engineering practices,
 such as **Test-Driven Development (TDD)**, **Pair Programming**,
 **Continuous Integration/Delivery**, and **Test Automation**.
 
+Currently, I am collaborating with the product and design team to enhance 
+various aspects of the app and working on breaking down complex requirements 
+into actionable tasks.
+
 ### 📫 Connect with Me
 
 - X(Twitter): **[@annypatel][x]**
