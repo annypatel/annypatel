@@ -21,10 +21,10 @@ into actionable tasks.
 🚧 Please beware of fake accounts. I am only available on the social media 
 platforms listed below. 
 
-- **[X(Twitter)][x]**
-- **[LinkedIn][linked_in]**
 - **[anny.im][anny_im]**
+- **[LinkedIn][linked_in]**
+- **[X(Twitter)][x]**
 
-[x]: https://x.com/annypatel_
-[linked_in]: https://www.linkedin.com/in/annypatel
 [anny_im]: https://anny.im
+[linked_in]: https://www.linkedin.com/in/annypatel
+[x]: https://x.com/annypatel_
