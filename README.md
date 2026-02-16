@@ -18,9 +18,12 @@ into actionable tasks.
 
 ### 📫 Connect with Me
 
-- X(Twitter): **[@annypatel][x]**
-- LinkedIn: **[annypatel][linked_in]**
-- Website: **[anny.im][anny_im]**
+🚧 Please beware of fake accounts. I am only available on the social media 
+platforms listed below. 
+
+- **[X(Twitter)][x]**
+- **[LinkedIn][linked_in]**
+- **[anny.im][anny_im]**
 
 [x]: https://x.com/annypatel_
 [linked_in]: https://www.linkedin.com/in/annypatel
