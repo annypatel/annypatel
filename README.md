@@ -23,7 +23,7 @@ platforms listed below.
 
 - **[anny.im][anny_im]**
 - **[LinkedIn][linked_in]**
-- **[X(Twitter)][x]**
+- **[X (Twitter)][x]**
 
 [anny_im]: https://anny.im
 [linked_in]: https://www.linkedin.com/in/annypatel
