@@ -18,13 +18,11 @@ into actionable tasks.
 
 ### 📫 Connect with Me
 
-🚧 Please beware of fake accounts. I am only available on the social media 
-platforms listed below. 
+🚧 Please beware of fake accounts. I am only available on the following
+social media platforms. 🚧
 
 - **[anny.im][anny_im]**
 - **[LinkedIn][linked_in]**
-- **[X (Twitter)][x]**
 
 [anny_im]: https://anny.im
 [linked_in]: https://www.linkedin.com/in/annypatel
-[x]: https://x.com/annypatel_
